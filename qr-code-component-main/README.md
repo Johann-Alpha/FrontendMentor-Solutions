@@ -45,5 +45,5 @@ I would like to learn floats and how to work with them. That technique has alrea
 
 ## Author
 
-- Website - [Add your name here](https://johannmaldonado.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Johann-Alpha)
+- Website - [Johann Maldonado](https://johannmaldonado.com)
+- Frontend Mentor - [@Johann-Alpha](https://www.frontendmentor.io/profile/Johann-Alpha)
