@@ -5,12 +5,14 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
+    padding-bottom: 7.5%;
+    padding-top: 7.5%;
 }
 
 .container {
-    width: 320px;
-    height: 497px;
     margin-top: 75px;
+    width: 320px;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
     background-color: hsl(0, 0%, 100%);
@@ -23,6 +25,7 @@ body {
 .inner-container {
     margin-left: 16px;
     width: 288px;
+    height: 497px;
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -31,6 +34,7 @@ body {
     text-align: center;
     padding: 0 auto;
     margin-top: 32px;
+    margin-bottom: 32px;
 }
 
 img {
