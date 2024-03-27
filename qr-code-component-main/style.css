@@ -3,10 +3,13 @@
     padding: 0;
 }
 body {
+    padding-top: 152px;
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
-    padding-bottom: 7.5%;
-    padding-top: 7.5%;
+    min-height: 100vh;
+    display: block-flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
@@ -17,10 +20,8 @@ body {
     margin-right: auto;
     background-color: hsl(0, 0%, 100%);
     padding-top: 16px;
-    border-radius: 10px;
+    border-radius: 15px;
 }
-
-
 
 .inner-container {
     margin-left: 16px;
@@ -33,7 +34,7 @@ body {
 .text-container {
     text-align: center;
     padding: 0 auto;
-    margin-top: 32px;
+    margin-top: 16px;
     margin-bottom: 32px;
 }
 
@@ -46,8 +47,7 @@ img {
 .upper-text {
     font-weight: 700;
     font-size: 22px;
-    color: hsl(218, 44%, 22%)
-        ;
+    color: hsl(218, 44%, 22%);
 }
 
 .lower-text {
